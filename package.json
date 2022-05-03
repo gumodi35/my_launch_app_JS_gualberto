@@ -1,0 +1,22 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "New JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumodi35/my_launch_app_JS_gualberto.git"
+  },
+  "author": "Gualberto Montiel Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumodi35/my_launch_app_JS_gualberto/issues"
+  },
+  "homepage": "https://github.com/gumodi35/my_launch_app_JS_gualberto#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
