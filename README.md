@@ -79,6 +79,8 @@ Con esto vamos a habilitar el comando `npm start` para que al llamarlo ejecute `
 
 9. Ahora en tu línea de comando ejecuta `npm start` y verifica que imprima lo que necesitas.
 
+![npmstart](/assets/npmstart.gif)
+
 # IV. Agregar una prueba de unidad de tu clase
 
 10. En la carpeta de `test` agrega un archivo llamado `missionCommander.test.js`.
@@ -139,6 +141,8 @@ expect(myMissionCommander.name).toBe("Woopa");
 
 18. Ejecuta la prueba nuevamente, y verifica que no haya fallos. 
 19. NO CONFÍES EN UNA PRUEBA QUE NO HAS VISTO FALLAR. Modifica de nuevo tu prueba de unidad, cambia el valor que esperas por otro totalmente diferente. Corre de nuevo tu prueba y verifica que este fallando. ES IMPORTANTE VERIFICAR QUE TU PRUEBA PASE PERO TAMBIÉN QUE FALLÉ. 
+
+![test](/assets/test.gif)
 
 ¡Felicidades: ya sabes pruebas de unidad!
 
